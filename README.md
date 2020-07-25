@@ -7,5 +7,5 @@ manxishi@gmail.com
   The code uses two artificial neural networks; one to determine whether or not there was a wall between the pi’s and one to determine is unobstructed pi’s were within six feet of each other.
 
   All code is contained in the notebook named ‘Shi_Manxi_Code.ipynb’   
-  Collected data is contained in the .zip file named ‘Shi_Manxi_CollectedData.zip’   
+  Collected data is contained in the zip file named ‘Shi_Manxi_CollectedData.zip’   
   Description of data is contained in the txt file names ‘Shi_Manxi_CollectedDataOverview.txt’   
