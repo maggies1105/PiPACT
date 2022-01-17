@@ -1,6 +1,6 @@
 Manxi Shi
 
-Each csv file is labeled with the distance between the two pi’s (the first number present), and it is measured in feet.
+Each csv file is labeled with the distance between the two pi’s (the first number present), measured in feet.
 If the csv file name has ‘_wall’ at the end, then there was a wall between two pi’s during data collection
 Every data file contains scan #, address, timestamp, UUID, TX power, and RSSI values. I extracted only the RSSI values of address ‘DC:A6:32:55:FC:3E’ in my code for analysis.
 
