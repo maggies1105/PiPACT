@@ -1,8 +1,8 @@
-07/23/2020   
+1/16/2022   
 Manxi (Maggie) Shi   
 manxishi@gmail.com
 
-  MIT Beaver Works Independent Project
+  Contact Tracing COVID-19 using Bluetooth Low Energy
   
   This project addresses the topic of determining whether or not there is an obstruction between two devices based on RSSI values of bluetooth low energy beacons from Raspberry Pi 4’s.
 
